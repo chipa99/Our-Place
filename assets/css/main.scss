@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap");
+@import url("lenis/dist/lenis.css");
+@import "tailwindcss";
+
+@theme {
+  --font-display: "Playfair Display", serif;
+  --font-primary: "Nunito", sans-serif;
+  --font-office: "American Typewriter Regular";
+
+  --color-primary-100: #e8e6e5;
+  --color-primary-200: #d0cdcb;
+  --color-primary-300: #b9b3b0;
+  --color-primary-400: #a19a96;
+  --color-primary-500: #a19a96;
+  --color-primary-600: #8a817c;
+  --color-primary-700: #6e6763;
+  --color-primary-800: #373432;
+  --color-primary-900: #1c1a19;
+
+  --color-secondary-100: #f2f1ef;
+  --color-secondary-200: #e4e3e0;
+  --color-secondary-300: #d7d4d0;
+  --color-secondary-400: #c9c6c1;
+  --color-secondary-500: #bcb8b1;
+  --color-secondary-600: #96938e;
+  --color-secondary-700: #716e6a;
+  --color-secondary-800: #4b4a47;
+  --color-secondary-900: #262523;
+
+  --color-tertiary-100: #f9efec;
+  --color-tertiary-200: #f3dfd9;
+  --color-tertiary-300: #eccfc6;
+  --color-tertiary-400: #e6bfb3;
+  --color-tertiary-500: #e0afa0;
+  --color-tertiary-600: #b38c80;
+  --color-tertiary-700: #866960;
+  --color-tertiary-800: #5a4640;
+  --color-tertiary-900: #2d2320;
+
+  --color-background-100: #fdfdfc;
+  --color-background-200: #fbfaf8;
+  --color-background-300: #f8f8f5;
+  --color-background-400: #f6f5f1;
+  --color-background-500: #f4f3ee;
+  --color-background-600: #c3c2be;
+  --color-background-700: #92928f;
+  --color-background-800: #62615f;
+  --color-background-900: #313130;
+
+  --color-alternative-100: #dad9d8;
+  --color-alternative-200: #b5b2b0;
+  --color-alternative-300: #908c89;
+  --color-alternative-400: #6b6561;
+  --color-alternative-500: #463f3a;
+  --color-alternative-600: #38322e;
+  --color-alternative-700: #2a2623;
+  --color-alternative-800: #1c1917;
+  --color-alternative-900: #0e0d0c;
+}
